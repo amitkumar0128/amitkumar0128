@@ -11,7 +11,7 @@
 
 ### 📬 Let's connect
 - 📧 Email: jangidamitkumar49@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/jangid-amitkumar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jangid-amitkumar)
 
 <!--
 **amitkumar0128/amitkumar0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
