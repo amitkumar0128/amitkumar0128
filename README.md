@@ -11,7 +11,7 @@
 - 🐞 [Bug Tracker Lite](https://github.com/amitkumar0128/bugtracker.git):  
   A Django web app to track and manage software bugs with user roles and CRUD operations.
 
-- 🤖 [CloudMate – Telegram Bot](https://github.com/amitkumar0128/amit_bot.git):  
+- 🤖 [CloudMate – Telegram Bot](https://github.com/amitkumar0128/cloudmate.git):  
   A cloud-focused bot that monitors endpoints, triggers CI/CD pipelines, and routes alerts (GitHub + Prometheus + Telegram).
 
 - 🔐 [Python Keylogger](https://github.com/amitkumar0128/KeyLogger.git):  
