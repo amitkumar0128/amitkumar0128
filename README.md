@@ -1,17 +1,35 @@
 ### Hey there, I'm Amitkumar 👋
 
-- 🧠 Learning Cloud (AWS), Django, DevOps
-- 🔧 Python | Django | Linux | Cloud
-- 🔍 Looking for remote freelance opportunities
+- 🧠 Currently diving deep into **Cloud (AWS)**, **Django**, and **DevOps**
+- 🔧 Working with: **Python** | **Linux** | **Cloud Infrastructure** | **Automation**
+- 🌐 Open to **remote freelance opportunities** and impactful collaborations
+
+---
 
 ### 🛠 My Projects
-- 🐞 [Bug Tracker Lite](https://github.com/amitkumar0128/bugtracker.git): Django web app to manage software bugs with CRUD and user auth.
-- 🤖 [Telegram Bot](https://github.com/amitkumar0128/amit_bot.git): Automates tasks and responds to users using Telegram API.
-- 🔐 [Python Keylogger](https://github.com/amitkumar0128/KeyLogger.git): A basic keylogger for ethical hacking & educational purposes.
 
-### 📬 Let's connect
-- 📧 Email: jangidamitkumar49@gmail.com
+- 🐞 [Bug Tracker Lite](https://github.com/amitkumar0128/bugtracker.git):  
+  A Django web app to track and manage software bugs with user roles and CRUD operations.
+
+- 🤖 [CloudMate – Telegram Bot](https://github.com/amitkumar0128/amit_bot.git):  
+  A cloud-focused bot that monitors endpoints, triggers CI/CD pipelines, and routes alerts (GitHub + Prometheus + Telegram).
+
+- 🔐 [Python Keylogger](https://github.com/amitkumar0128/KeyLogger.git):  
+  A basic keylogger built for educational and ethical hacking demos.
+
+- 🐧 [Linux Projects](https://github.com/amitkumar0128/Linux-Projects):  
+  A collection of 7+ real-world Bash tools – from disk alert scripts to package installers – crafted to automate sysadmin tasks.
+
+---
+
+### 📬 Let's Connect
+
+- 📧 Email: jangidamitkumar49@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jangid-amitkumar)
+
+---
+
+> 💡 *Always building, always shipping. Learning in public.*
 
 <!--
 **amitkumar0128/amitkumar0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
