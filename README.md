@@ -24,7 +24,8 @@
 
 ### 📬 Let's Connect
 
-- 📧 Email: jangidamitkumar49@gmail.com  
+- 📧 Email: jangidamitkumar49@gmail.com
+- [Portfolio](https://amitkumar0128.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jangid-amitkumar)
 
 ---
