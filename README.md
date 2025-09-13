@@ -14,7 +14,7 @@ I'm a passionate student currently diving deep into the world of **DevOps**. I l
 
 - **Languages:** Python, Bash (Linux Scripting)
 - **Version Control:** Git, GitHub
-- **Containerization:** Docker
+- **DevOps Tools:** Docker, Terraform, Ansible, Jenkins
 - **Cloud:** AWS
 - **Operating Systems:** Linux
 
@@ -22,12 +22,12 @@ I'm a passionate student currently diving deep into the world of **DevOps**. I l
 
 ## 📦 Projects I'm Proud Of
 
-- [**django-todo-docker**](#) — A Dockerized Django To-Do application
-- [**static-app-s3-cicd**](#) — CI/CD pipeline for static apps to AWS S3
-- [**flask_docker_cicd**](#) — Flask app with Docker and CI/CD integration
-- [**bugtracker**](#) — Simple bug tracking web app
-- [**portfolio**](#) — My personal developer portfolio
-- [**cloudmate**](#) — Tools and scripts for cloud automation
+- [**django-todo-cicd**](#) — A CI/CD pipeline for Dockerized Django To-Do application using Jenkins, Terraform, Ansible and Docker
+- [**static-app-s3-cicd**](#) — CI/CD pipeline for static apps to AWS S3 using GitHub Actions
+- [**flask_docker_cicd**](#) — Flask app with Docker and CI/CD integration using GitHub Actions
+- [**bugtracker**](#) — Simple bug tracking web app built using Django and Django REST Framework
+- [**portfolio**](#) — My personal developer portfolio built using HTML, CSS and JS
+- [**docker-deploy-threeways**](#) — A Django Todo App deployed independently using Terraform, Ansible, and Jenkins
 
 *Check out my pinned repositories below for more!*
 
