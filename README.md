@@ -1,67 +1,80 @@
-# 👋 Hi, I'm Amitkumar!
+# 👋 Hi, I'm Amitkumar
 
-**Student | DevOps Enthusiast | Always Learning**
+**DevOps Engineer | Building Systems, Not Just Pipelines**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate student currently diving deep into the world of **DevOps**. I love building pipelines, automating workflows, and exploring how modern tools can make development & deployment smoother and smarter.
+I’m a DevOps Engineer focused on building and automating real-world systems.
+
+My work revolves around designing CI/CD pipelines, provisioning infrastructure, and understanding how systems behave in production — including failure, scalability, and reliability.
+
+I’m actively moving beyond just tools to develop strong **systems thinking** in DevOps.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-- **Languages:** Python, Bash (Linux Scripting)
-- **Version Control:** Git, GitHub
-- **DevOps Tools:** Docker, Terraform, Ansible, Jenkins
-- **Cloud:** AWS
-- **Operating Systems:** Linux
-
----
-
-## 📦 Projects I'm Proud Of
-
-- [**django-todo-cicd**](https://github.com/jangid-amitkumar/django-todo-cicd) — A CI/CD pipeline for Dockerized Django To-Do application using Jenkins, Terraform, Ansible and Docker
-- [**static-app-s3-cicd**](https://github.com/jangid-amitkumar/static-app-s3-cicd) — CI/CD pipeline for static apps to AWS S3 using GitHub Actions
-- [**flask_docker_cicd**](https://github.com/jangid-amitkumar/flask_docker_cicd) — Flask app with Docker and CI/CD integration using GitHub Actions
-- [**bugtracker**](https://github.com/jangid-amitkumar/bugtracker) — Simple bug tracking web app built using Django and Django REST Framework
-- [**portfolio**](https://github.com/jangid-amitkumar/portfolio) — My personal developer portfolio built using HTML, CSS and JS
-- [**docker-deploy-threeways**](https://github.com/jangid-amitkumar/docker-deploy-threeways) — A Django Todo App deployed independently using Terraform, Ansible, and Jenkins
-
-*Check out my pinned repositories below for more!*
+* **Languages:** Python, Bash
+* **Cloud:** AWS
+* **Infrastructure as Code:** Terraform, Ansible
+* **CI/CD:** Jenkins, GitHub Actions
+* **Containers:** Docker
+* **Version Control:** Git, GitHub
+* **OS:** Linux
 
 ---
 
-## 💡 What I Love
+## 📦 Projects
 
-- Building and optimizing CI/CD pipelines
-- Automating repetitive tasks to save time
-- Collaborating and sharing knowledge
+* [**django-todo-cicd**](https://github.com/jangid-amitkumar/django-todo-cicd)
+  CI/CD pipeline for a Dockerized Django app using Jenkins, Terraform, and Ansible
 
----
+* [**docker-deploy-threeways**](https://github.com/jangid-amitkumar/docker-deploy-threeways)
+  Same application deployed independently using Terraform, Ansible, and Jenkins to compare approaches
 
-## 🎲 Fun Facts
+* [**static-app-s3-cicd**](https://github.com/jangid-amitkumar/static-app-s3-cicd)
+  Automated deployment of static apps to AWS S3 using GitHub Actions
 
-- ♟️ I love playing chess
-- 🎵 Music is my daily companion
-- 📚 Always up for a good book
+* [**flask_docker_cicd**](https://github.com/jangid-amitkumar/flask_docker_cicd)
+  Flask application with Docker and CI/CD integration
 
----
-
-## 🌐 Socials
-
-<!-- Add your links below -->
-- **Email:** jangidamitkumar49@gmail.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jangid-amitkumar)
-- **Website:** [Portfolio](https://jangid-amitkumar.github.io/portfolio/)
+* [**bugtracker**](https://github.com/jangid-amitkumar/bugtracker)
+  Django + DRF based bug tracking system
 
 ---
 
-## 🏁 Motto
+## ⚙️ What I Focus On
 
-> **Don't Give Up**
+* Building reliable CI/CD pipelines
+* Automating infrastructure and deployments
+* Understanding system failures and debugging
+* Improving deployment workflows and efficiency
 
 ---
 
-*Thanks for stopping by! Feel free to connect, collaborate, or check out my work below.*
+## 📈 Currently Working On
+
+* Strengthening system design and debugging skills
+* Exploring observability and production-level scenarios
+* Building projects that simulate real-world DevOps problems
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [jangidamitkumar49@gmail.com](mailto:jangidamitkumar49@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/jangid-amitkumar
+* 🌍 Portfolio: https://jangid-amitkumar.github.io/portfolio/
+
+---
+
+## 🧠 Motto
+
+> Build systems that don’t break.
+> And when they do — understand why.
+
+---
+
+*Always learning. Always building.*
